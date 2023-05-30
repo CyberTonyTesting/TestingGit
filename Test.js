@@ -462,3 +462,10 @@ console.log("Go");
 console.log("Go");
 console.log("Go");
 console.log("Go");
+
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
