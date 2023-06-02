@@ -497,3 +497,10 @@ while (alive) {
     code();
     repeat();
 }
+
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
