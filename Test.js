@@ -581,3 +581,11 @@ while (alive) {
     code();
     repeat();
 }
+
+hile (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+
