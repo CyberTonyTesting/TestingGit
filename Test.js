@@ -582,7 +582,14 @@ while (alive) {
     repeat();
 }
 
-hile (alive) {
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+
+while (alive) {
     eat();
     sleep();
     code();
