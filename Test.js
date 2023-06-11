@@ -654,6 +654,13 @@ while (alive) {
 }
 
 
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+
 
 
 
