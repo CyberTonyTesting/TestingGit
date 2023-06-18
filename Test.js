@@ -755,4 +755,11 @@ while (alive) {
 
 console.log("Very Interesting");
 
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+
 
