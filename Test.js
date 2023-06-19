@@ -769,5 +769,11 @@ while (alive) {
     repeat();
 }
 
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
 
 
