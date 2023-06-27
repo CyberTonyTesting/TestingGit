@@ -819,6 +819,7 @@ console.log("SQL and Python are coming soon");
 console.log("SQL and Python are coming soon");
 console.log("SQL and Python are coming soon");
 console.log("SQL and Python are coming soon");
+console.log("SQL and Python are coming soon");
 
 
 
