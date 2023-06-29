@@ -823,6 +823,7 @@ console.log("SQL and Python are coming soon");
 console.log("SQL is very interesting");
 console.log("Go Language is smooth!");
 console.log("Go Language is smooth!");
+console.log("Go Language is smooth!");
 
 
 
