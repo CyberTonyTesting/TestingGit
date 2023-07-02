@@ -826,6 +826,7 @@ console.log("Go Language is smooth!");
 console.log("Go Language is smooth!");
 console.log("Traveling");
 console.log("This is beautiful");
+console.log("This is beautiful");
 
 
 
