@@ -8,3 +8,4 @@ puts("Bye");
 puts("Bye");
 puts("bye");
 puts("bye");
+puts("Hi");
