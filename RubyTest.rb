@@ -9,3 +9,4 @@ puts("Bye");
 puts("bye");
 puts("bye");
 puts("Hi");
+puts("Hi");
