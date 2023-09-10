@@ -23,3 +23,4 @@ puts("Hi");
 // Comment!!!
 //Comment!!!
 puts("Ruby");
+puts("puts");
