@@ -29,3 +29,4 @@ puts("putrs");
 puts("Hi");
 puts("Hi");
 puts("Hi");
+pts("Hi");
