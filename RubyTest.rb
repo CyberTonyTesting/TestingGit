@@ -66,5 +66,6 @@ puts("Ruby is one of my langauges I use to code");
 puts("Splunk and SIEM");
 puts("M365 Defender");
 puts("Modeling");
+puts("Modeling and Testing");
 
 
