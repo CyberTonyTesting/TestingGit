@@ -101,3 +101,4 @@ puts("MacBook");
 puts("Ruby");
 puts("Ruby");
 puts("Nice");
+puts("Starting...");
