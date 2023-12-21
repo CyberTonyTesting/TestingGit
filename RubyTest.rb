@@ -133,3 +133,4 @@ puts("Test...");
 //
 //
 puts("Testing...RPG GaME");
+puts("Closing out...");
