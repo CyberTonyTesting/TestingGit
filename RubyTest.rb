@@ -136,3 +136,4 @@ puts("Testing...RPG GaME");
 puts("Closing out...");
 puts("Openning the file...");
 puts("Closing the file...");
+puts("Updating the file...");
