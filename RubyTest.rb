@@ -137,3 +137,4 @@ puts("Closing out...");
 puts("Openning the file...");
 puts("Closing the file...");
 puts("Updating the file...");
+puts("Refining the file...");
