@@ -10,3 +10,14 @@ def rouge_function():
 
 
 rouge_function()
+
+
+def stars_function():
+    print("**********")
+    print("*Author: *")
+    print("*        *")
+    print("*        *")
+    print("**********")
+
+
+stars_function()
