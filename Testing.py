@@ -3,3 +3,10 @@ def my_test_function():
 
 
 my_test_function()
+
+
+def rouge_function():
+    print("The rouge function worked")
+
+
+rouge_function()
