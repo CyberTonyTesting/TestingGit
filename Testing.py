@@ -21,3 +21,5 @@ def stars_function():
 
 
 stars_function()
+
+stars_function()
