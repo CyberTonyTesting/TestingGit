@@ -23,3 +23,10 @@ def stars_function():
 stars_function()
 
 stars_function()
+
+
+def processing():
+    print("Processing....")
+
+
+processing()
