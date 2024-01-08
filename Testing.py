@@ -41,3 +41,10 @@ processing()
 processing()
 processing()
 processing()
+
+
+def scan():
+    print("Scanning the document now...")
+
+
+scan()
