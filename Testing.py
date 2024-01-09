@@ -48,3 +48,10 @@ def scan():
 
 
 scan()
+
+
+def leave():
+    print("Get out now!")
+
+
+leave()
